@@ -1,0 +1,106 @@
+
+
+@media screen and (max-width:980px){
+	#logodiv{
+		 width:11%;
+		 float:none;
+		 margin:auto;
+		 display:block;
+		 margin-bottom:40px;
+		
+		
+	}
+	
+	#lastnav {
+		width:100%;
+		float:left;
+		height:100%;
+		display:block;
+		
+		
+		
+	}
+	
+	.input{
+		width:100%;
+		
+	
+		
+	}
+	.topics{
+		
+	}
+}
+@media screen and (max-width:768px){
+	#lastnav {
+		
+		float:left;
+		height:100%;
+		display:block;
+		
+		
+		
+	}
+	#primarymanu li{
+		width:400px;
+		float:none;
+		
+		margin:auto;
+		display:block;
+		
+		
+		
+		
+		
+		
+	}
+	
+	.input{
+		
+		
+		
+	}
+	.topics{
+		
+		
+	}
+
+	
+	
+}
+
+
+@media screen and (max-width:480px){
+	#lastnav {
+		
+		float:left;
+		height:100%;
+		display:block;
+		
+		
+		
+	}
+	#primarymanu li{
+		width:200px;
+		float:none;
+
+		margin:auto;
+		display:block;
+		
+		
+		
+		
+		
+		
+	}
+	.input{
+		
+		
+	}
+	.topics{
+		
+	}
+	
+	
+	
+}
